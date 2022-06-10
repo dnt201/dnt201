@@ -5,7 +5,6 @@
   <a href="https://fb.com/dnt201">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <i class="fa-brands fa-github"></i>
   <a href="mailto:duynhatran201@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
