@@ -18,6 +18,6 @@
 </div>
 
 <div id="banner" align="center">
-  <img src="https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47w0whbds4qy1lwcsj8p2428ujmqz2dvtxi7p0uvww&rid=giphy.gif&ct=g" width="80%"/>
+  <img src="https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47w0whbds4qy1lwcsj8p2428ujmqz2dvtxi7p0uvww&rid=giphy.gif&ct=g" width="80%" margin-top="20px"/>
 </div>
 
