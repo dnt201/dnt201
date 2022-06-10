@@ -25,7 +25,7 @@
 
 
 ### :man_technologist: About Me :
-I am a Fresher Dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from HCMUTE :vietnam:.
+I am a Fresher Dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from HCMUTE 🇻🇳
 - :telescope: I’m studing as a Software Engineer and contributing to frontend for building web applications.
 - :telescope: And i'm a mobile developer. 😙
 - :zap: In my free time, I plays game (CSGO, Lol, ApexLegend,...) if you want, we can duo =)))
