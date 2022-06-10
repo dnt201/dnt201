@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/programming-404-topnode-hS42TuYYnANLFR9IRQ" width="120"/>
+  <img src="https://media4.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif?cid=790b7611956d2019362d1d61f7a6ae3e1b8b5bea190eaf14&rid=giphy.gif&ct=ts" width="120"/>
 </div>
 
 Here are some ideas to get you started:
