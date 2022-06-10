@@ -13,7 +13,11 @@
   </a>
 
 </div>
-<div id ="numView" align="center">
+<div id="numView" align="center">
   <img src="https://komarev.com/ghpvc/?username=dnt201&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div id="banner" align="center">
+  <img src="https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47w0whbds4qy1lwcsj8p2428ujmqz2dvtxi7p0uvww&rid=giphy.gif&ct=g" width="80%"/>
 </div>
 
