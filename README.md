@@ -27,8 +27,9 @@
 ### :man_technologist: About Me :
 I am a Fresher Dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from HCMUTE 🇻🇳
 - :telescope: I’m studing as a Software Engineer and contributing to frontend for building web applications.
-- :telescope: And i'm a mobile developer. 😙
-- :zap: In my free time, I play game (CSGO, Lol, ApexLegend,...) if you want, we can duo =)))
+- :telescope: And i'm a mobile developer too. 😙
+- :video_game: In my free time, I play game (CSGO, Lol, ApexLegend,...) if you want, we can duo =)))
+- :zap: As a developer but i'm funny man and very friendly. I have good interpersonal skills so I'm good at teamwork. I very "welcome" to change and learn new skills - technical. I expect to learn more things during my training/working time at your company.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
