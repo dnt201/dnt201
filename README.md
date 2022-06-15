@@ -56,5 +56,5 @@ I am a Fresher Dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 ---
 
-Thanks for reading, have a good day.
-<b align="center" size="24px">See you soon</b> ✋
+Thanks for reading, have a good day :black_heart:.
+<b>See you soon</b> ✋
