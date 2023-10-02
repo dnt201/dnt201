@@ -30,7 +30,7 @@ I am a Junior FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcM
 - 🏗️ Currently, I'm a Software Engineer at VNGGames.
 - :video_game: In my free time, I play games (CSGO, Lol, ApexLegend,...) if you want, we can duo =)))
 - :zap: As a developer, I'm a funny man and very friendly. I have good interpersonal skills so I'm good at teamwork. I am very "welcome" to change and learn new skills - technical. I hope we can work together 💙.
-
+- ℹ️ <a href="https://duy-nha-tran-portfolio.vercel.app/"> Visit my portfolio website to get more information </a>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
