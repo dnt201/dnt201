@@ -25,11 +25,11 @@
 
 
 ### :man_technologist: About Me :
-I am a Fresher Dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from HCMUTE 🇻🇳
-- :telescope: I’m studing as a Software Engineer and contributing to frontend for building web applications.
-- :telescope: And i'm a mobile developer too. 😙
-- :video_game: In my free time, I play game (CSGO, Lol, ApexLegend,...) if you want, we can duo =)))
-- :zap: As a developer but i'm funny man and very friendly. I have good interpersonal skills so I'm good at teamwork. I very "welcome" to change and learn new skills - technical. I hope we can work together 💙 :vvvv
+I am a Junior FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from HCMUTE 🇻🇳
+- :telescope: I’m studying as a Software Engineer and contributing to the Front End for building web applications, and I'm a mobile developer too.
+- 🏗️ Currently, I'm a Software Engineer at VNGGames.
+- :video_game: In my free time, I play games (CSGO, Lol, ApexLegend,...) if you want, we can duo =)))
+- :zap: As a developer, I'm a funny man and very friendly. I have good interpersonal skills so I'm good at teamwork. I am very "welcome" to change and learn new skills - technical. I hope we can work together 💙.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -56,5 +56,5 @@ I am a Fresher Dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 ---
 
-Thanks for reading, have a good day :black_heart:.
+Thanks for reading, have a good day :black_heart:
 <b>See you soon</b> ✋
