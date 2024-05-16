@@ -32,9 +32,9 @@ I am a Junior FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcM
   - 📖 Library: ReactJS - Typescript
   - 👻 State management: Redux toolkit - Jotai
   - 📺 UI library: Tailwind CSS - AntDesign - Less/Scss 
-  - 🌉 Connect BE: ReactQuery - Axios - ReactRouter - Restful API.
+  - 🌉 Connect BE: ReactQuery - Axios - Restful API.
 - :video_game: In my free time, I play games (CSGO, Lol, ApexLegend,...) if you want, we can duo =)))
-- :zap: As a developer, I'm a funny man and very friendly. I have good interpersonal skills so I'm good at teamwork. I am very "welcome" to change and learn new skills - technical. I hope we can work together 💙.
+- :zap: As a developer, I'm a funny person and so friendly. I have good interpersonal skills so I'm good at teamwork. I'm "welcome" to change and learn new skills - technical. I hope we can work together 💙.
 - ℹ️ <a href="https://duy-nha-tran-portfolio.vercel.app/" target="_blank"> Visit my portfolio website to get more information </a>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
